@@ -1,3 +1,5 @@
+<p align="center"><img src="https://raw.githubusercontent.com/fogonapps/fogon/main/apps/ahorrador/fastlane/metadata/android/en-US/images/icon.png" width="140" alt="El Ahorrador"></p>
+
 # El Ahorrador
 
 Tus cuentas, gastos, sobres y metas. Sin anuncios, sin rastreo y sin internet: tus datos se quedan en tu teléfono.
